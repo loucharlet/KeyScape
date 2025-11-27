@@ -39,11 +39,12 @@ Le projet a été réalisé dans le cadre d’un projet scolaire.
 
 # Installation et lancement
 
-## Cloner le projet :
+## Cloner et lancer le projet :
 
 '''bash
 git clone <URL_REPO>
-cd T-JAV-501-MAR_15
+cd KeyScape
+./gradlew lwjgl3:run
 
 Commandes du jeu :
 Q / D : Gauche / Droite
