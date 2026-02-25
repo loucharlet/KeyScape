@@ -42,8 +42,8 @@ Visionner le trailer du jeu sur youtube monté par mes soins : https://www.youtu
 
 # Installation et lancement
 
-##Option 1 : 
-#Télécharger le jeu
+## Option 1 : 
+# Télécharger le jeu
 Rendez-vous dans l’onglet Releases du repository
 Téléchargez le fichier Keyscape.jar
 
@@ -61,7 +61,7 @@ Dans le dossier contenant Keyscape.jar :
 ```
 java -jar Keyscape.jar
 ```
-##Option 2 :
+## Option 2 :
 # Cloner et lancer le projet :
 
 ```bash
